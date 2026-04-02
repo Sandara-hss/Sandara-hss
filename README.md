@@ -20,7 +20,7 @@
       🎓 <b>Computer Science & Technology Undergraduate</b> at <b>Uva Wellassa University</b> <br/>
       🌍 Based in <b>Sri Lanka</b> 🇱🇰<br/>
       💡 Passionate about <b>data analysis, programming, and problem solving</b> <br/>
-      🧠 Exploring <b>Machine Learning, Data Visualization, and Web Development</b> <br/>
+      🧠 Exploring <b>Data Visualization, and Web Development</b> <br/>
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="250px">
@@ -76,7 +76,7 @@
    </table>
 </div>
 
-> **Other Projects:** 📌 **Salon Website (KDJ Salon)** - A modern, responsive website built using Tailwind CSS.
+> **Other Projects:** 📌 **Lakpriya Villa – Online Room Booking System** - A modern, responsive website built using Tailwind CSS.
 
 ---
 
@@ -108,10 +108,6 @@
       <td>Advanced Data Analysis Techniques & Minitab/Excel mastery</td>
     </tr>
     <tr>
-      <td align="center"><b>Machine Learning</b></td>
-      <td>Understanding ML Basics and implementing models in Python</td>
-    </tr>
-    <tr>
       <td align="center"><b>Web Development</b></td>
       <td>Full Stack Web Development & building responsive UIs</td>
     </tr>
@@ -126,7 +122,7 @@
   <a href="mailto:sandaralasandi03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/linkedin.com/in/sandara-lasandi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sandara-hss" target="_blank">
