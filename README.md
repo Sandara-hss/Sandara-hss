@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=337AB7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation V2" />
 </div>
 
 <br/>
@@ -24,8 +24,7 @@
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="250px">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="Coding GIF" />
-    </td>
+      </td>
   </tr>
 </table>
 
@@ -122,7 +121,7 @@
   <a href="mailto:sandaralasandi03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="linkedin.com/in/sandara-lasandi" target="_blank">
+  <a href="https://linkedin.com/in/sandara-lasandi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sandara-hss" target="_blank">
