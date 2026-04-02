@@ -20,11 +20,11 @@
       🎓 <b>Computer Science & Technology Undergraduate</b> at <b>Uva Wellassa University</b> <br/>
       🌍 Based in <b>Sri Lanka</b> 🇱🇰<br/>
       💡 Passionate about <b>data analysis, programming, and problem solving</b> <br/>
-      🧠 Exploring <b>Data Visualization, and Web Development</b> <br/>
+      🧠 Exploring <b>Machine Learning, Data Visualization, and Web Development</b> <br/>
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="250px">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Dark Coding Animation" />
+      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="230" alt="Dark Coding Animation" />
     </td>
   </tr>
 </table>
@@ -33,11 +33,19 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Skills & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,html,css,tailwind,vscode,git,github" alt="My Skills" />
 </div>
+
+<br/>
+
+- 💻 **Programming:** Java, Python, JavaScript
+- 🌐 **Web Development:** HTML, CSS, Tailwind CSS, PHP
+- 🗄️ **Database:** MySQL
+- 📊 **Data Tools:** Excel, Minitab, Power BI
+- ⚙️ **Tools:** VS Code, Git, GitHub
 
 ---
 
@@ -76,14 +84,16 @@
    </table>
 </div>
 
-> **Other Projects:** 📌 **Lakpriya Villa – Online Room Booking System** - A modern, responsive website built using Tailwind CSS.
+> **Other Web Projects:** <br/>
+> 📌 **Lakpriya Villa – Online Room Booking System** - A modern, responsive website built using Tailwind CSS. <br/>
+> 📌 **Salon Website (KDJ Salon)** - Responsive UI for a local salon business.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandara-hss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandara-hss&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandara-hss&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
 
@@ -106,6 +116,10 @@
     <tr>
       <td align="center"><b>Data Analytics</b></td>
       <td>Advanced Data Analysis Techniques & Minitab/Excel mastery</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Machine Learning</b></td>
+      <td>Understanding ML Basics and implementing models in Python</td>
     </tr>
     <tr>
       <td align="center"><b>Web Development</b></td>
