@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=337AB7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation V2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=337AB7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -24,7 +24,8 @@
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="250px">
-      </td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Dark Coding Animation" />
+    </td>
   </tr>
 </table>
 
@@ -82,14 +83,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandara-hss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandara-hss&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandara-hss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandara-hss&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandara-hss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandara-hss&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ---
@@ -118,7 +119,7 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:sandaralasandi03@gmail.com" target="_blank">
+  <a href="mailto:sandaralasandi03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/sandara-lasandi" target="_blank">
