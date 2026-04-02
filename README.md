@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=337AB7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation V2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sandara+Lasandi!;CST+Undergraduate+%40+UWU;Aspiring+Data+Scientist;Full-Stack+Web+Developer" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -20,11 +20,12 @@
       🎓 <b>Computer Science & Technology Undergraduate</b> at <b>Uva Wellassa University</b> <br/>
       🌍 Based in <b>Sri Lanka</b> 🇱🇰<br/>
       💡 Passionate about <b>data analysis, programming, and problem solving</b> <br/>
-      🧠 Exploring <b>Data Visualization, and Web Development</b> <br/>
+      🧠 Exploring <b>Machine Learning, Data Visualization, and Web Development</b> <br/>
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="250px">
-      </td>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="Coding GIF" />
+    </td>
   </tr>
 </table>
 
@@ -75,7 +76,7 @@
    </table>
 </div>
 
-> **Other Projects:** 📌 **Lakpriya Villa – Online Room Booking System** - A modern, responsive website built using Tailwind CSS.
+> **Other Projects:** 📌 **Salon Website (KDJ Salon)** - A modern, responsive website built using Tailwind CSS.
 
 ---
 
@@ -107,6 +108,10 @@
       <td>Advanced Data Analysis Techniques & Minitab/Excel mastery</td>
     </tr>
     <tr>
+      <td align="center"><b>Machine Learning</b></td>
+      <td>Understanding ML Basics and implementing models in Python</td>
+    </tr>
+    <tr>
       <td align="center"><b>Web Development</b></td>
       <td>Full Stack Web Development & building responsive UIs</td>
     </tr>
@@ -121,7 +126,7 @@
   <a href="mailto:sandaralasandi03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sandara-lasandi" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sandara-hss" target="_blank">
