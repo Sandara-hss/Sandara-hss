@@ -24,7 +24,7 @@
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="400px">
-      <img src=["" width="400" alt="CST Animation"](https://github.com/user-attachments/assets/1328cb88-1f12-49b9-ad42-09ed79714e9d) />
+      <img src=["file:///C:/Users/Hp/.m2/Downloads/Firefly%20man%20github%20account%20ekak%20heduwa.mata%20animation%20video%20ekak%20hadanna%20oni.me%20thiyenne%20denata%20thiy%20(1).mp4" width="400" alt="CST Animation"](https://github.com/user-attachments/assets/1328cb88-1f12-49b9-ad42-09ed79714e9d) />
     </td>
   </tr>
 </table>
