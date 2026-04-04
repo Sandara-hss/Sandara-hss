@@ -23,13 +23,11 @@
       🧠 Exploring <b>Machine Learning, Data Visualization, and Web Development</b> <br/>
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
-    <td width="250px">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="Coding GIF" />
+    <td width="400px">
+      <img src="ඔබේ_GIF_LINK_එක_මෙතැනට_දමන්න" width="400" alt="CST Animation" />
     </td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
