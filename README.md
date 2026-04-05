@@ -25,7 +25,7 @@
       🚀 <b>Goal:</b> To become a professional Data Scientist and work on real-world data projects.
     </td>
     <td width="400px">
-      <img src="https://github.com/user-attachments/assets/1328cb88-1f12-49b9-ad42-09ed79714e9d" width="400" alt="CST Animation" />
+      <img src="ezgif-5865abeaf6793ad8.gif" width="400" alt="CST Animation" />
     </td>
   </tr>
 </table>
