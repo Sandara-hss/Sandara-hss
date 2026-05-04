@@ -71,9 +71,44 @@
          </p>
        </td>
      </tr>
-
-     
    </table>
+
+  <table width="100%">
+  <tbody>
+    <!-- Row 2 -->
+    <tr>
+      <td width="50%">
+        <h3 align="center">📌 Lakpriya Villa Website</h3>
+        <p align="center">Premium, fully responsive static website designed for a luxury private villa.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/Sandara-hss/Villa-Booking-System">
+            <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+          </a>
+        </p>
+      </td>
+
+      <td width="50%">
+        <h3 align="center">📊 Data Analytics Dashboard</h3>
+        <p align="center">Interactive dashboard for analyzing data and visualizing insights.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+          <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/Sandara-hss">
+            <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 > **Other Projects:** 📌 **Salon Website (KDJ Salon)** - A modern, responsive website built using Tailwind CSS.
