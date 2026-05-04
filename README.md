@@ -73,8 +73,7 @@
      </tr>
    </table>
 
-  <table width="100%">
-  <tbody>
+  <table>
     <!-- Row 2 -->
     <tr>
       <td width="50%">
@@ -91,7 +90,6 @@
           </a>
         </p>
       </td>
-
       <td width="50%">
         <h3 align="center">📊 Data Analytics Dashboard</h3>
         <p align="center">Interactive dashboard for analyzing data and visualizing insights.</p>
@@ -107,7 +105,6 @@
         </p>
       </td>
     </tr>
-  </tbody>
 </table>
 </div>
 
